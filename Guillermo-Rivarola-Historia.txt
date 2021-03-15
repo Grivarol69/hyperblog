@@ -16,3 +16,6 @@ Guillermo Rivarola - Historia
      Encargado Agregaduría Aeronáutica Embajada Argentina en Perú (23 oct 2014 - 23 oct 2016)
      Encargado Sección Cargos - Unidad Operativa Compras Córdoba (01 nov 2016 - 01 set 2017)
      Licencia Extraordinaria 6 meses y pase a retiro a voluntad(01 set 2017 - 01 abr 2018)
+
+- Trabajos Realizados en la Fuerza Aérea:
+     - Desarrollo del software "Control de Haberes" para el Área de Material "Río IV"
