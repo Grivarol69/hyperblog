@@ -19,4 +19,4 @@ Guillermo Rivarola - Historia
 
 - Trabajos Realizados en la Fuerza Aérea:
      - Desarrollo del software "Control de Haberes" para el Área de Material "Río IV"
-     - Desarrollo de Sistema de Archivos en Dpto PACID
+     - Desarrollo de Sistema de Archivos en Dpto PACID 
